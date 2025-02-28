@@ -1,0 +1,12 @@
+F:\Develop\TskHandler\TskModule\bin\Debug\net8.0-windows\TskModule.deps.json
+F:\Develop\TskHandler\TskModule\bin\Debug\net8.0-windows\TskModule.dll
+F:\Develop\TskHandler\TskModule\bin\Debug\net8.0-windows\TskModule.pdb
+F:\Develop\TskHandler\TskModule\obj\Debug\net8.0-windows\TskModule.GeneratedMSBuildEditorConfig.editorconfig
+F:\Develop\TskHandler\TskModule\obj\Debug\net8.0-windows\TskModule.AssemblyInfoInputs.cache
+F:\Develop\TskHandler\TskModule\obj\Debug\net8.0-windows\TskModule.AssemblyInfo.cs
+F:\Develop\TskHandler\TskModule\obj\Debug\net8.0-windows\TskModule.csproj.CoreCompileInputs.cache
+F:\Develop\TskHandler\TskModule\obj\Debug\net8.0-windows\TskModule.sourcelink.json
+F:\Develop\TskHandler\TskModule\obj\Debug\net8.0-windows\TskModule.dll
+F:\Develop\TskHandler\TskModule\obj\Debug\net8.0-windows\refint\TskModule.dll
+F:\Develop\TskHandler\TskModule\obj\Debug\net8.0-windows\TskModule.pdb
+F:\Develop\TskHandler\TskModule\obj\Debug\net8.0-windows\ref\TskModule.dll
