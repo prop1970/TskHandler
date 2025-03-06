@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TskHadler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d6adbb2800f3468502bb72cba6294c5868197ee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bfba33ce290591a4ce399d34eca71f550f9395c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TskHadler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TskHadler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
